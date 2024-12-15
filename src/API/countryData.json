@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "countryCapital": "New Delhi",
+    "population": 1407563842,
+    "interestingFact": "India is a vast country with diverse cultures."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "countryCapital": "Washington, D.C.",
+    "population": 332915073,
+    "interestingFact": "The USA has one of the world's biggest GDPs."
+  },
+  {
+    "id": 3,
+    "countryName": "China",
+    "countryCapital": "Beijing",
+    "population": 1411778724,
+    "interestingFact": "China is famous for its Great Wall and history."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "countryCapital": "Brasília",
+    "population": 214326223,
+    "interestingFact": "Brazil is well known for its Amazon rainforest."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "countryCapital": "Canberra",
+    "population": 26356000,
+    "interestingFact": "Australia is home to unique wildlife species."
+  },
+  {
+    "id": 6,
+    "countryName": "Japan",
+    "countryCapital": "Tokyo",
+    "population": 125620000,
+    "interestingFact": "Japan is known for its technology and temples."
+  },
+  {
+    "id": 7,
+    "countryName": "Germany",
+    "countryCapital": "Berlin",
+    "population": 83517045,
+    "interestingFact": "Germany is famous for its cars and festivals."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "countryCapital": "Pretoria",
+    "population": 60930000,
+    "interestingFact": "South Africa is known for its three capitals."
+  }
+]

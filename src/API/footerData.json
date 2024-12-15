@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"MdPLace",
+        "title":"Find us",
+        "details" :"Rajasthan"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "7568599845"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details" :"khushwant01kumawat@gmail.com"
+    }
+]
